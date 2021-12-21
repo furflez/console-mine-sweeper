@@ -19,12 +19,14 @@ Estava jogando um campo minado no celular e resolvi me desafiar a implementar al
 ## Conclusão
 ![jogo funcionando](https://github.com/furflez/console-mine-sweeper/blob/main/showcase.gif)
 
-Na minha visão atendi a todos os pontos do desafio proposto, porém existem muitos pontos de melhoria, como por exemplo:
+Na minha visão atendi a todos os pontos do desafio proposto, utilizei apenas node.js e fiz tudo em um arquivo apenas com cerca de 200 linhas
+porém existem muitos pontos de melhoria, como por exemplo:
 - [ ] implementar a adição das bombas após o primeiro toque, para que não de game over logo de inicio. 
 - [ ] implementar forma de dizer onde existe minas (colocar a bandeirinha)
 	- [ ] mostrar número de minas restantes.
 - [ ] criar níveis, fácil, médio e difícil, ao invés de determinar o numero de minas.
 - [ ] mostrar o tempo que levou.
+- [ ] implementar testes unitários
 ### extras estético
 - [ ] mudar a cor dos números como é no caso do campo minado clássico.
 - [ ] trocar bombas por emoji
